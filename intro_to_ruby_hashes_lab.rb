@@ -19,7 +19,7 @@ def monopoly_with_second_tier
 end
 
 def monopoly_with_third_tier
-	ailroads: {
+	railroads: {
 pieces: 4,
 names: { },
 }
